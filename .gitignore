@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### De la tarea ###
+
+src/main/java/resources/marcas.txt
